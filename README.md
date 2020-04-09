@@ -1,5 +1,6 @@
 # Forkify Project
-Forkify javascript project - a web portal for food recipes
+Forkify javascript project for "The Complete Javascript Course" by Jonas Schmedtmann- a web portal for food recipes
+Author: Valentin Dimitrov
 
 ---
 
