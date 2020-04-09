@@ -1,5 +1,5 @@
-# forkify-project
-forkify javascript project - a web portal for food recipes
+# Forkify Project
+Forkify javascript project - a web portal for food recipes
 
 ---
 
